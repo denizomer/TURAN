@@ -1,4 +1,4 @@
 <<<<<<< HEAD
-COK KOMiKMiS
+COK KOMiKMiS haha
 =======
 >>>>>>> parent of d19f315... yazi eklendi
